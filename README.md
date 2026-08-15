@@ -1,5 +1,7 @@
 # Hyperspectral Plant Stress Classification with Machine Learning
 
+![Project preview](assets/preview.svg)
+
 A compact machine-learning workflow for distinguishing healthy vegetation, nutrient stress, and disease-like spectral responses from hyperspectral reflectance features.
 
 ## Portfolio value
